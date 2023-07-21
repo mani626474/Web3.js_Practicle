@@ -1,0 +1,18 @@
+3) Demonstrate how to check the account balances with the help of
+Web3.js.
+Ans:-First make sure you have Node.js on your system 
+then you can install web3.js using npm (node package manager)
+
+npm install web3
+
+we will use the Ethereum mainnet with the HTTP provider  
+
+const Web3 = require('web3');
+
+const rpcURL = "mainnet infura id ......."
+
+const web3 = new Web3(rpcURL);
+
+web3.eth.getbalance(account address)
+
+console.log(balance);

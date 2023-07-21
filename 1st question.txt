@@ -1,0 +1,5 @@
+1) What is Web3.js?
+Ans:-Web3.js is collection of library allow you to interact with local or remote ethereum blockchain
+using http,IPC or Websocket
+Web3 is an essential tool for developers working on decentralized applications smart contract and blockchain
+related projects

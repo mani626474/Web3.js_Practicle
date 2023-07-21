@@ -1,0 +1,7 @@
+2) How Web3 is different from Web2?
+Ans:- Web 2 is current state of internet characterised by centralized,limited control over data 
+ big giant company like google facebook sold our data for business models.
+
+Web3:- web3 is nexxt stage of internet 
+	development,aiming for decentralization user-controlled data,and improve user experiance 
+	through blockchain and distributed ledeger technology.
